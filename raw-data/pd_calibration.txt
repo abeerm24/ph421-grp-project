@@ -1,0 +1,8 @@
+This file gives a set of photodiode calibration results. The measured signal
+in each line of signals_XXXXXuW.txt must be multiplied by the following factors
+respectively to get the power (in mW) for each respective mode.
+
+2.10
+2.21
+5.53
+3.86
